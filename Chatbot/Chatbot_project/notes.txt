@@ -1,0 +1,4 @@
+1 .basemessage
+2. systemmessage
+3. humanmessage
+4. aimessage

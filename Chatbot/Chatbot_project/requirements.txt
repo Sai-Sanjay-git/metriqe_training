@@ -1,0 +1,7 @@
+openai
+gradio
+request
+python-dotenv
+bs4
+pypdf2
+faiss
