@@ -1,0 +1,9 @@
+Meal_input,output,timestamp
+"15 eggs, 1 chicken , 1 cup rice, 3 bread , 3 orange , 2 banana","total calories:  2251 cal
+
+15 x egg = 1170 cal
+1 x chicken = 239 cal
+1 x rice = 206 cal
+3 x bread = 240 cal
+3 x orange = 186 cal
+2 x banana = 210 cal",2025-07-14 00:46:59.444520

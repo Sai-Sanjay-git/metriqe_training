@@ -1,0 +1,7 @@
+meal_input,output,timestamp
+"2 eggs, 2 cup milk, 1 cup rice,20 breads","total calories:  2168 cal
+
+2 x egg = 156 cal
+2 x milk = 206 cal
+1 x rice = 206 cal
+20 x bread = 1600 cal",2025-07-14 00:24:00.191762
