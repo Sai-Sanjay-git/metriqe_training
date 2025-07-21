@@ -1,0 +1,14 @@
+langchain
+gradio
+python-dotenv
+
+#llm provider (Google Gemini)
+langchain-google-genai
+
+#Document reader
+pypfd
+
+chromadb
+langchain-community
+langchain-chroma
+numpy
