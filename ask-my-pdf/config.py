@@ -2,9 +2,10 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-API_KEY = os.getenv("GOOGLE_API_KEY")
+API_KEY = os.getenv("OPENAI_API_KEY")
+model = "gpt-4"
 if not API_KEY or API_KEY == "":
-    raise ValueError("GOOGLE_API_KEY not found or not set. Please get a key from https://aistudio.google.com/app/apikey and set it in the .env file.")
+    raise ValueError("OPENAI_API_KEY not found or not set. Please get a key from https://aistudio.google.com/app/apikey and set it in the .env file.")
 
 PDF_DIRS = "PDFs"
 VECTOR_STORE_DIR = "vector_store"
